@@ -1,1 +1,1 @@
-# Fast clicker on the Python
+# fast-clicker
